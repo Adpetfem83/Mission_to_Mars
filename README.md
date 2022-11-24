@@ -20,6 +20,7 @@ This project is made up of a Python script to scrape text and images from differ
   - Bootstrap 3
 
 ## Summary
+
 ![WebApp_ss](https://user-images.githubusercontent.com/83378141/126406623-e456cc0a-2828-44f9-9383-9512e3350608.png)
 
 *Viewing it from an Iphone:*
