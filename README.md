@@ -32,7 +32,7 @@ The final outcome of this project was a fully-functional web application that is
 
 ![MongoDB_Mars_ss](https://github.com/Adpetfem83/Mission_to_Mars/blob/main/Images/Screen%20Shot%202022-11-24%20at%209.06.29%20AM.png)
 
-The scrape included a `news_title` with its brief explanation (`news_paragraph`), a `featured_image`, a table HTML component stored in `facts`, and four picture thumbnails, with their titles, of the different Mars' hemispheres stored in `hemispheres`. 
+The scrape includes a `news_title` with its brief explanation (`news_paragraph`), a `featured_image`, a table HTML component stored in `facts`, and four picture thumbnails, with their titles, of the different Mars' hemispheres stored in `hemispheres`. 
 
 Furthermore, as database is updated each time new data is scraped, it is also saved with a "last_modified" date to know last time the button was clicked, this is shown at the bottom of the query results below. In this case, it was on November 24th, 2022. 
 
